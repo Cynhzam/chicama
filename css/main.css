@@ -1,0 +1,42 @@
+*{
+	font-family: "Open Sans";
+}
+header {
+	background-image: url("../img/grupal.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 800px;
+}
+.button {
+	background-color: #FCB739;
+	border: none;
+	border-radius: 5px;
+	height: 20px;
+	margin-left: 100px;
+	margin-top: 90px;
+	padding: 5px 10px;
+	text-align: center;
+	width: 60px;
+}
+.logo {
+	margin-top: 100px;
+	margin-left: 5px;
+}
+.imagen{
+	height: 400px;
+	margin-top: 30px;
+	width: 300px;
+}
+header a {
+	text-decoration: none;
+	color: #465362;
+	font-weight: bold;
+	float: left;
+	margin: 50px 10px;
+}
+footer {
+	background-color: #323230;
+	margin-top: 350px;
+	color: #D5E9F4;
+	padding: 5px;
+}
